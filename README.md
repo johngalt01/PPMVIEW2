@@ -10,3 +10,6 @@ even some brightness adjustment.
 
 dithering is tied to the 4 levels of color the ANSI Terminal allows for a total of 64 colors.
 printing is 1-bit dither, all based on Floyd–Steinberg.
+
+![DSCN5645](https://github.com/user-attachments/assets/3efd3905-7d73-4c88-ac2e-c07a97e4275d)
+![DSCN5647](https://github.com/user-attachments/assets/b0804be3-4dbc-401f-a78e-c09deb285ee4)
