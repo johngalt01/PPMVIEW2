@@ -1,6 +1,8 @@
 This is my own version of the original PPMVIEW program by eightbitswide
 https://github.com/eightbitswide/ppmview
 
+Requires FABGL VGA32 ANSI Terminal 
+
 I rewrote and extended the functionality of the original PPM viewer.
 you can choose to turn dithering on or off to speed up the display a little.
 choose to print the display to a okidata printer on the LST: port.
