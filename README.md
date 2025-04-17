@@ -2,6 +2,8 @@ Updated 4/16/2025
 some bug fixes
 added Okidata 192 ML printer support.
 
+Warning!! NOT compatable with the Okidata 192 IBM Compatable version of the same printer.
+
 added some additional test images to play with
 
 This is my own version of the original PPMVIEW program by eightbitswide
