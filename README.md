@@ -1,3 +1,9 @@
+Updated 4/16/2025
+some bug fixes
+added Okidata 192 ML printer support.
+
+added some additional test images to play with
+
 This is my own version of the original PPMVIEW program by eightbitswide
 https://github.com/eightbitswide/ppmview
 
