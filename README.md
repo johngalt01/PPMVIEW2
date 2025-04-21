@@ -1,11 +1,13 @@
-Updated 4/16/2025
+Updated 4/20/2025
 
 SUPPORTED PRINTERS - OKIDATA(EPSON MODE) 320/321/320T/321T/390T/391T/520/521/590/591/192ML
 * some bug fixes
 * added Okidata 192 ML printer support.
 
-Warning!! NOT compatible with the Okidata 192 'IBM Compatable' version of the same printer.
+* Geoff version: Warning!! NOT compatible with the Okidata 192 'IBM Compatable' version of the same printer.
 This version has a 'IBM' sticker on the back under the parellel port.
+
+* FABGL Version supports 192 'IBM Compatable' as of 4/20/2025
 
 Added some additional test images to play with
 
