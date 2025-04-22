@@ -1,22 +1,16 @@
-Updated 4/20/2025
+Updated 4/22/2025
 
-SUPPORTED PRINTERS - OKIDATA(EPSON MODE) 320/321/320T/321T/390T/391T/520/521/590/591/192ML
+SUPPORTED PRINTERS - OKIDATA(EPSON MODE) 320/321/320T/321T/390T/391T/520/521/590/591/192ML/192IBM
 * some bug fixes
 * added Okidata 192 ML printer support.
-
-* Geoff version: Warning!! NOT compatible with the Okidata 192 'IBM Compatable' version of the same printer.
-This version has a 'IBM' sticker on the back under the parellel port.
-
-* FABGL Version supports 192 'IBM Compatable' as of 4/20/2025
+* added Okidata 192 'IBM Compatable' printer support
 
 Added some additional test images to play with
 
 This is my own version of the original PPMVIEW program by eightbitswide
 https://github.com/eightbitswide/ppmview
 
-Requires FABGL VGA32 ANSI Terminal 
-
-GEOFF Terminal version now available.
+Requires FABGL VGA32 ANSI Terminal or GEOFF Terminal version now available.
 
 I rewrote and extended the functionality of the original PPM viewer.
 you can choose to turn dithering on or off to speed up the display a little.
