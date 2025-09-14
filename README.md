@@ -1,5 +1,10 @@
-9/12/2025
-updates coming soon with new tools.
+9/13/2025
+
+PPMVIEW2.COM newest update adds bug fixes and new features. Adds Grey scale display conversion.
+PPMDC.COM is a utility that just processes PPM files and adds Dithering to match the FABGL ANSI Terminal saves the output to a new image PPM file
+PPMAC.COM is a utility that turns a PPM image file into RAW asci Terminal escape codes you can also alter the image offset X,Y. allows you to TYPE the VT file to the terminal for a quicker output to the display.
+PPMLST.COM is a utility that just prints a PPM file to your choice of Supported OKIDATA printers. its a faster 1-bit conversion and output when you just want to print an image as fast as possible. It can take hours to output a 512X384 Resolution image file.
+Max res supported is 512X384 to match the FABGL Display terminal.
 
 
 Updated 4/22/2025
