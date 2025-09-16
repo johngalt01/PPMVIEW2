@@ -2,7 +2,7 @@
 
 PPMVIEW2.COM newest update adds bug fixes and new features. Adds Grey scale display conversion.
 
-PPMDC.COM is a utility that just processes PPM files and adds Dithering to match the FABGL ANSI Terminal saves the output to a new image PPM file
+PPMDC.COM is a utility that just processes PPM files and adds Dithering to match the FABGL ANSI Terminal saves the output to a new image PPM file. this saves some time if you want to use ppmview2 sicne you can disable dithering as it has already been done.
 
 PPMAC.COM is a utility that turns a PPM image file into RAW asci Terminal escape codes you can also alter the image offset X,Y. allows you to TYPE the VT file to the terminal for a quicker output to the display.
 
