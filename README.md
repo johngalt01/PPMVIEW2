@@ -11,6 +11,8 @@ PPMLST.COM is a utility that just prints a PPM file to your choice of Supported 
 Max res supported is 512X384 to match the FABGL Display terminal. a 512x284 image could take over 12 hours to complete to the terminal with dithering conversion. this will output to the printer in just 2-3 hours by comparision.
 
 
+the GEOFF version of PPMVIEW2 has not been updated yet, there is a bug with the IBM compatable and 320 printer family where an image over 255 in width will crash the program, i have to get the newer version posted.
+
 Updated 4/22/2025
 
 SUPPORTED PRINTERS - OKIDATA(EPSON MODE) 320/321/320T/321T/390T/391T/520/521/590/591/192ML/192IBM
