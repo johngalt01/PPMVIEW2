@@ -1,3 +1,7 @@
+9/28/2025
+
+finally updated PPMVIEW2-GEOFF.COM to fix a printer bug with the 320 and IBM version of the 192 printer for outputing images larger then 255 pixels wide. 
+
 9/13/2025
 
 PPMVIEW2.COM newest update adds bug fixes and new features. Adds Grey scale display conversion.
