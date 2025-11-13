@@ -1,3 +1,17 @@
+11/13/2025
+Updated:
+
+PPMVIEW2
+
+PPMVIEW-GEOFF
+
+and
+
+PPMLST
+
+Added cublic scaling function option, contrast enhancement for grey scale and printer output.
+
+
 9/28/2025
 
 finally updated PPMVIEW2-GEOFF.COM to fix a printer bug with the 320 and IBM version of the 192 printer for outputing images larger then 255 pixels wide. 
