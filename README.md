@@ -3,7 +3,7 @@ Updated:
 
 PPMVIEW2
 
-PPMVIEW-GEOFF
+PPMVIEW2-GEOFF
 
 and
 
