@@ -1,3 +1,8 @@
+11/24/2025:
+
+PPMLST : increased possible width output for printer since the printer can output a larger image then the screen terminal.
+
+
 11/13/2025
 Updated:
 
